@@ -1,3 +1,5 @@
+![dashboard page](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/01.png)
+
 # online-hotel-restaurant-management-system-in-PHP
 This is an incomplete online hotel management software developed in HTML & CSS, JS, and PHP as developed by Obed Nyakundi.
 The software package includes:
@@ -43,3 +45,9 @@ Email: *paulnyaxx@gmail.com* or
 Tel: *+254706748162*
 
 I wish you all the best as you explore our limited app!
+
+# Gallery
+![index page](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/02.png)
+![login form](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/03_1.png) 
+![new food form](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/03_2.png)
+![food category form](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/03_3.png)
