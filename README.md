@@ -47,7 +47,14 @@ Tel: *+254706748162*
 I wish you all the best as you explore our limited app!
 
 # Gallery
+## The Index page
 ![index page](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/02.png)
-![login form](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/03_1.png) 
+
+## The Login form
+![login form](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/03_1.png)
+
+## The form to add food as an admin 
 ![new food form](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/03_2.png)
+
+## The form to add a new food category
 ![food category form](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/03_3.png)
