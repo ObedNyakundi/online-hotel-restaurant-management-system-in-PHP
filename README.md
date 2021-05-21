@@ -5,6 +5,19 @@ The software package includes:
 - forms: login, adding food, adding food category, adding users...
 - a HTML CSS index page
 
+## Dependencies
+**PHP Dependencies:**
+- fpdf (for receipts in the complete version).
+
+**CSS Dependencies**
+- Bootstrap
+- Font awesome.
+- W3.css
+
+**JS dependencies
+- Bootstrap
+- jQuery navigation
+
 
 # THE USER'S GUIDE
 ## TO INSTALL:
