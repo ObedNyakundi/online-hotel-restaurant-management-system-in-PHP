@@ -14,7 +14,7 @@ The software package includes:
 - Font awesome.
 - W3.css
 
-**JS dependencies
+**JS dependencies**
 - Bootstrap
 - jQuery navigation
 
