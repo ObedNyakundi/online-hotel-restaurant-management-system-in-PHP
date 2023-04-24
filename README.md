@@ -1,5 +1,5 @@
 # Online hotel/restaurant management system in PHP
-This is an incomplete online hotel management software developed in HTML & CSS, JS, and PHP as developed by Obed Nyakundi.
+This is an incomplete online hotel management software developed in HTML & CSS, JS, and PHP.
 ![dashboard page](https://github.com/ObedNyakundi/online-hotel-restaurant-management-system-in-PHP/blob/main/01.png)
 
 # User guide
